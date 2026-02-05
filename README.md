@@ -1,4 +1,6 @@
 ### Hello, everyone 👋
 
 
-Hello I am Sheena Hora and I am a dedicated, enthusiastic machine learning researcher. I am a Graduate student at University of Windsor pursuing master’s in computer science. My major is Artificial Intelligence..  I have 4+ years of professional experience as an IT Analyst in Tata Consultancy Services. I was awarded a Vector Scholarship in Artificial Intelligence (2020-21). The most valuable skill that I possess is the ability to learn quickly and implement in my work. Currently looking for a role that will enable me to continue polishing my skills whilst being able to apply them in practice effectively. 
+I am a Software Development Engineer at Amazon Web Services with 8 years of experience building production-grade systems across the stack, from backend services and data workflows to frontend components and cloud platforms on AWS.
+
+I work on designing, implementing, and operating scalable systems in high-availability environments. My experience spans system design, APIs, event-driven architectures, data pipelines, and user-facing components, with a strong focus on automation, operational excellence, and measurable business outcomes.
